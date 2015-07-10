@@ -1,6 +1,6 @@
 <?php
 /**
- * @author Ibrahim Tounkara (Web back-end PHP/Symfony Developer)
+ * @author Ibrahim Tounkara (PHP/Symfony Backend Developer)
  */
  
 namespace app\xanfaberAPI\src\catalog\xanfaber\model;
