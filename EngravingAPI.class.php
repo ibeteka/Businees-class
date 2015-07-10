@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Ibrahim Tounkara
+ * @author Ibrahim Tounkara (PHP/Symfony Backend Developer)
  */
 
 //namespace app\xanfaberAPI\src\catalog\xanfaber\model;
